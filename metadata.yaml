@@ -1,11 +1,16 @@
 _repo: Historical-record-of-the-71st-Regiment-Highland-Light-Infantry-b-from-its-formation-in-1777-u__70056
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70056-h/images/cover.jpg
 creator:
   author:
     agent_name: Hildyard, Henry J. T.
     gutenberg_agent_id: '55572'
     url: http://www.gutenberg.org/2009/agents/55572
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70056#Historical-record-of-the-71st-Regiment-Highland-Light-Infantry-b-from-its-formation-in-1777-u_
 gutenberg_issued: '2023-02-17'
 identifiers:
   gutenberg: '70056'
